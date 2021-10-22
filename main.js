@@ -1,7 +1,7 @@
 
     const linksSocialMedia= {
       github : "drakenote",
-      youtube : "UCmkDtAbwu1CUlRl7Fbx3wIg",
+      youtube : "channel/UCmkDtAbwu1CUlRl7Fbx3wIg",
       facebook : "Drakenote",
       instagram : "lucasc_maia",
       twitter : "lucasmaia7"
